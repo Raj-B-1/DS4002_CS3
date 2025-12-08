@@ -4,8 +4,7 @@ The hook document outlinine this study is the file labelled CS3Hook_SMSSpamClass
 ## Data
 The image dataset can be found in the "DATA" folder and includes a cleaned dataset for being used as your model and the original data as well.
 ## Reference Materials
-T. A. Almeida, J. M. Gómez Hidalgo, and A. Yamakami, “Contributions to the Study of SMS Spam Filtering: New Collection and Results,” Proc. ACM Symp. Document Eng. (DocEng ’11), 2011.
+
+Chaudhary, Manuyash. “SPAM SMS Detection Using Machine Learning.” Accubits Blog, Accubits Technologies Inc, 11 Sept. 2020, blog.accubits.com/spam-sms-detection-using-machine-learning/.
 
 J. M. Gómez Hidalgo, T. A. Almeida, and A. Yamakami, “On the Validity of a New SMS Spam Collection,” Proc. IEEE ICMLA ’12, 2012.
-
-T. A. Almeida, J. M. Gómez Hidalgo, and T. P. Silva, “Towards SMS Spam Filtering: Results under a New Dataset,” Int. J. Inf. Secur. Sci., vol. 2, no. 1, pp. 1–18, 2013.
