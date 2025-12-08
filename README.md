@@ -1,6 +1,6 @@
 # SMS Spam Classification Case Study
 ## Hook and Rubric Documents
-The hook document outlinine this study is the file labelled CS3Hook_SMSSpamClassification.pdf. The rubric CS3Rubric_SMSSpamClassification.pdf outlines the purpose, task, and criteria for this assignment.  
+The hook document outlinine this study is the file labelled [CS3Hook_SMSSpamClassification.pdf](https://github.com/Raj-B-1/DS4002_CS3/blob/main/CS3Hook_SMSSpamClassification.pdf). The rubric [CS3Rubric_SMSSpamClassification.pdf](https://github.com/Raj-B-1/DS4002_CS3/blob/main/CS3Rubric_SMSSpamClassification.pdf) outlines the purpose, task, and criteria for this assignment.  
 ## Data
 The image dataset can be found in the "DATA" folder and includes a cleaned dataset for being used as your model and the original data as well.
 ## Reference Materials
